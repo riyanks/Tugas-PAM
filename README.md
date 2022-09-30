@@ -1,5 +1,5 @@
-# Tugas-PAM
+# Tugas PAM
 
-Nama = Riyan Khoiri Siregar
-Nim = 120140212
+Riyan Khoiri Siregar
+120140212
 PAM RA
